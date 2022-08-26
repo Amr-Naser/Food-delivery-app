@@ -1,5 +1,4 @@
 {
-  "homepage": "https://amr-naser.github.io/food-delivery-app",
   "name": "restaurant-app",
   "version": "0.1.0",
   "private": true,
@@ -21,8 +20,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -50,8 +47,11 @@
     "gh-pages": "^4.0.0",
     "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
-  },"engines": {
+  },
+  "engines": {
     "node":"v16.17.0",
     "npm":"8.15.0"
   }
 }
+
+

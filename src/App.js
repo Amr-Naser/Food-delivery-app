@@ -39,3 +39,8 @@ const App = () => {
 };
 
 export default App;
+
+
+// "homepage": "https://amr-naser.github.io/food-delivery-app",
+//"predeploy":"npm run build",
+//"deploy":"gh-pages -d build",
